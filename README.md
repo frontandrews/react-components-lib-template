@@ -4,8 +4,8 @@
 
 ```
 import React from 'react';
-import { Button } from 'library-scss-modules';
-import 'library-scss-modules/dist/style.css';
+import { Button } from 'lreact-component-lib-template';
+import 'react-component-lib-template/dist/style.css';
 
 function App() {
   return (
