@@ -1,7 +1,6 @@
 # Component library using react
 
-Usage example
-
+## Usage example
 
 ```
 import React from 'react';

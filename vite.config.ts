@@ -39,7 +39,7 @@ export default defineConfig({
     outDir: 'dist',
     lib: {
       entry: path.resolve(__dirname, 'src/components/index.ts'),
-      name: 'MyComponentLibrary',
+      name: 'ReactComponentLibTemplate',
       formats: ['es', 'umd'],
       fileName: (format) => `react-components-lib-template.${format}.js`
     },
